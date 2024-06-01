@@ -1,0 +1,5 @@
+Bundle-Name: M4Eclipse Core
+Bundle-SymbolicName: de.laeubi.m4eclipse.core
+Bundle-Vendor: 
+Bundle-Version: 1.0.0.qualifier
+-buildpath: de.laeubi.m4eclipse.api

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: M4Eclipse UI
+Bundle-SymbolicName: de.laeubi.m4eclipse.ui
+Bundle-Version: 1.0.0.qualifier
+Import-Package: de.laeubi.m4eclipse.api;version="[0.0.1,1.0.0)"
+Automatic-Module-Name: de.laeubi.m4eclipse.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-21
